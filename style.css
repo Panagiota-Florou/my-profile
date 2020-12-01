@@ -5,7 +5,7 @@
 }
 
 body {
-	background: linear-gradient(-45deg, #e378a8, #d8bbff, #c8e7ff, #b9faf8);
+	background: linear-gradient(-45deg, #e378a8, #a663cc, #c8e7ff, #b9faf8);
 	background-size: 400% 400%;
 	animation: gradient 10s ease infinite;
 	font-family: 'Raleway', sans-serif;
